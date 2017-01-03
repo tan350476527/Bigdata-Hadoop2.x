@@ -36,7 +36,7 @@
 22. MapReduce执行流程Shuffle在代码中的体现
 23. MapReduce在实际应用中常见优化
 
-三、高级 Hadoop2.x
+##三、高级 Hadoop2.x
 1. Hadoop 2.x 分布式部署讲解
 2. 分布式安装环境准备（虚拟机克隆， mac地址重新生成）
 3. 主机名， IP地址设置
